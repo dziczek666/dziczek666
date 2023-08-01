@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
-<h3 align="center">MSc Bioinformatics Student from AMU Poznan, Poland</h3>
+<h3 align="center">MSc Bioinformatics Graduate from AMU Poznan, Poland</h3>
 
-- 🔭 I’m currently working on **Master thesis in breast cancer subtypes comparison**
+- 🔭 I’ve recently complited **Master thesis in breast cancer subtypes comparison**
 
 - 🌱 I’m currently learning **data analysis, sklearn, keras**
 
